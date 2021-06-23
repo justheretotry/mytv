@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8度空间" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="",8TV
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="AOD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="",Astro AOD 311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="AEC" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="全佳" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="",Astro Quan Jia HD
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="双星" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" group-title="",Astro Shuang Xing
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="华丽台" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="",Astro 华丽台 (Astro Wah Lai Toi)
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="欢喜台" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="",Astro 欢喜台 (Astro Hua Hee Dai)
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-id="Fenghuangzhongwen.hk" tvg-name="凤凰中文" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86#/media/File:Phoenix_Chinese.svg" group-title="General",凤凰中文 
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+#EXTINF:-1 tvg-id="Fenghuangxianggang.hk" tvg-name="凤凰香港" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86#/media/File:Phoenix_Chinese.svg" group-title="General",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+#EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="General",民視 (720p)
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="民視台灣" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",民視台灣 (720p)
+http://seb.sason.top/ptv/ftv.php?id=tw
