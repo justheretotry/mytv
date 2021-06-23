@@ -3,7 +3,7 @@
 http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="AOD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="",AOD 311
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1 tvg-id="AEC.my" tvg-name="AEC" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",AEC
+#EXTINF:-1 tvg-id="AEC.my" tvg-name="AEC" tvg-country="MY" tvg-language="" tvg-logo="https://en.m.wikipedia.org/wiki/Astro_AEC#/media/File%3AAstro_AEC_HD.jpg" group-title="",AEC
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="全佳" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="",全佳
 http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
